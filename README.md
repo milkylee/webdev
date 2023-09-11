@@ -22,6 +22,29 @@ All activities will be stored and checked from here .
 * Save as .html
 * Open the file in the browser
 
+### Updating repository rules
+
+* Clone the repository for first time use or anywhere you want to run the program or retrieve your code
+* Checkout to new branch refering to your activity name if branch is not yet available 
+```
+git checkout -b exercise1-content-jcruz
+```
+* If you just need to update your old code, just checkout to your branch without -b
+```
+git checkout exercise1-content-jcruz
+```
+* Once you are sure that you're already inside your branch, add all the files you want to push
+```
+git add .
+```
+* Commit your changes and create a message, short description about your changes
+```
+git commit -m "Added new activity exercise1-content-jcruz"
+```
+* Push your changes on your branch
+```
+git push -u origin exercise1-content-jcruz
+```
 
 ## Authors
 
