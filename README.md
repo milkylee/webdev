@@ -54,8 +54,8 @@ git push -u origin exercise1-content-jcruz
 
 Contributors names and contact info
 
-ex. Milky Delos Santos
-ex. [@milky](https://github.com/milkylee)
+Milky Delos Santos
+[@milky](https://github.com/milkylee)
 
 ## Version History
 
