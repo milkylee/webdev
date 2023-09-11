@@ -24,7 +24,11 @@ All activities will be stored and checked from here .
 
 ### Updating repository rules
 
+* Open cmd in Windows or if you're using Visual Studio Code, Ggo to Terminal->New Terminal type in terminal instructions below
 * Clone the repository for first time use or anywhere you want to run the program or retrieve your code
+```
+git clone https://github.com/milkylee/webdev.git
+```
 * Checkout to new branch refering to your activity name if branch is not yet available 
 ```
 git checkout -b exercise1-content-jcruz
