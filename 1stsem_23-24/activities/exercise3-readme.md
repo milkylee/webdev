@@ -1,8 +1,9 @@
 ### Exercise 3 Adding an image, external link, icons
 1. Get a copy of the image file on your hard drive so you can see it in place when you open the file locally.
 2. Once you’ve got the image, insert it at the beginning of the first-level heading by typing in the img element and its attributes as shown here:
-<h1><img src="<your-image>.jpg" alt="Alan Smith" />Your Name</h1>
+"<h1><img src="<your-image>.jpg" alt="Joe Bloggs" />Your Name</h1>"
 The src attribute provides the name of the image file that should be inserted, and the alt attribute provides text that should be displayed if the image is not available. Both of these attributes are required in every img element.
+
 3. Do the same for the contact details but instead of adding the file using the image path, use the src attribute to look for the image available in the internet and use the following values:
 for email: https://raw.githubusercontent.com/milkylee/webdev/master/1stsem_23-24/activities/mail.png
 for website: https://raw.githubusercontent.com/milkylee/webdev/master/1stsem_23-24/activities/world-wide-web.png
