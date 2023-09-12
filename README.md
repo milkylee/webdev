@@ -51,7 +51,7 @@ git push -u origin exercise1-content-jcruz
 ```
 * Visit the Github portal and confirm if your branch is added or updated by clicking the branches under the repository name, beside the dropdown that displays master (as the default branch)
 * Select your branch and click the New Pull Request button
-* Do the pull request by selecting the dropdown of destination as the main branch of that activity ex: exercise1 (DO NOT POINT TO MASTER) and click the Confirm button
+* Do the pull request by selecting the base(dropdown destination) as the main branch of that activity ex: exercise1 (DO NOT POINT TO MASTER) and click the Create Pull Request button
 * DO NOT MERGE
 
 ## Authors
