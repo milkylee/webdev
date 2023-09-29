@@ -11,6 +11,7 @@
 10. In style.css, create class container max-width value of 1300px, margin's value is auto and padding-left and right to 25px.
 11. Create an image descendant selector of the class col-2 with max-width value of 100% and padding 50px 0 in style.css.
 12. Use the hover selector to change the background color of the class btn once the mouse is over the element.
+13. Observe the featured products in index.html, only the 1st column is redirecting to product_details.html. Add an image link to the rest of the products redirecting to product_details.html as well.
 
 ![Figure 5](/1stsem_23-24/activities/ecommerce/ecommerce.jpg)
 
