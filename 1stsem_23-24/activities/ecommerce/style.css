@@ -4,9 +4,7 @@
     box-sizing: border-box;
 }
 
-body{
-    font-family: 'Poppins', sans-serif;
-}
+/*Use Poppins font-family for body*/
 
 .navbar
 {
@@ -34,12 +32,7 @@ a{
 p{
     color: #555;
 }
-.container{
-    max-width: 1300px;
-    margin: auto;
-    padding-left: 25px;
-    padding-right: 25px;
-}
+/* Create class container max-width value of 1300px, margin's value is auto and padding-left and right to 25px*/
 .row{
     display: flex;
     align-items: center;
@@ -50,10 +43,9 @@ p{
     flex-basis: 50%;
     min-width: 300px;
 }
-.col-2 img{
-    max-width: 100%;
-    padding: 50px 0;
-}
+
+/* Create an image descendant selector of the class col-2 with max-width value of 100% and padding 50px 0*/
+
 .col-2 h1{
     font-size: 50px;
     line-height: 60px;
@@ -68,9 +60,8 @@ p{
     border-radius: 30px;
     transition: background 0.5s;
 }
-.btn:hover{
-    background: #563434;
-}
+/* Use the hover selector to change the background color of the class btn once the mouse is over the element */
+
 .header{
     background: radial-gradient(#fff,#a9ebff);
 }
