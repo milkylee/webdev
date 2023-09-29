@@ -5,5 +5,5 @@
 4. The class attribute navbar has missing links for about and contacts page. Create those files with your own design and own stylesheet.
 5. Get a copy of the image files in Gdrive https://drive.google.com/file/d/1VQt48FR2Qj8EK2rvz_x2BxJvGRh_5AHw/view?usp=sharing. Extract the zip file and move the images folder inside the ecommerce directory.
 
-![Figure 5](/1stsem_23-24/activities/ecommerce/ecommerce.pdf)
+![Figure 5](/1stsem_23-24/activities/ecommerce/ecommerce.jpg)
 
